@@ -12,10 +12,3 @@ cd showdown
 npm i
 npm start
 ```
-
-## OOA
-領域模型
-![image](./img/OOA.png)
-
-## 需求書
-[需求書](./request.md)
